@@ -1,0 +1,192 @@
+
+body{
+    margin: 2%;
+    padding: 0%;
+
+    background-color: black;
+    color:white;
+   
+}
+  
+
+
+
+ .mybody{ 
+
+    background-color: white ;
+    color:black;
+
+
+}
+
+header{
+    height:55px;
+    /* border: 2px solid yellow; */
+   
+  
+}
+
+#Geoloc{
+    float: left;
+    margin-left:-8%;
+    margin-bottom:1%;
+
+}
+
+/* navbar me jo icon hai sun icon uska property */
+
+ i{  
+    font-size: 30px;
+    cursor: pointer;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 82%;
+    color: white;
+}
+
+
+
+#IconBar{
+
+    height: 120px;
+    /* border: 5px solid brown; */
+    
+background-color: lavender;
+
+}
+
+.row{
+height:110px;
+}
+
+
+
+ .content a{
+
+    color: black; /* ancher tag text */
+    width: 100%; /* Full width */
+    height:30px
+}
+
+a{
+    text-decoration: none !important ;
+}
+
+
+
+
+
+#ScrollBar{
+
+height:300px;
+/* border: 2px solid black; */
+margin: 2%;
+
+
+}
+
+#ScrollBar img{
+height:290px;
+width: 100%;
+
+
+}
+
+#SpecialOfffer{
+    height:480px;
+    width: 95%;
+    /* border: 5px solid brown; */
+    margin:2% 2% 2% 2%;
+   
+}
+
+
+
+
+.moreproduct{
+    height:500px;
+    width:90%;
+    /* border:2px solid black; */
+    margin-left:4%;
+    margin-bottom: 2%;
+    
+
+}
+
+
+
+.tileContainer{
+    height:180px;
+    width:30%;
+    /* border:2px solid black; */
+    box-shadow: 10px 20px 15px #3b2632;
+    float:left;
+    margin-left:2%;
+    margin-top:3%;  
+    background-color: goldenrod;
+}
+
+.tileComponent1{
+    width:52%;
+    float: left;
+}
+
+.tileComponent1 img{
+    width:100%;
+    height:180px;
+}
+
+.tileComponent2{
+    width:45%;
+    float: left;
+    margin-top: 15%;
+    margin-left:2%
+}
+
+.componentHeading{
+    color:#3b2632;
+    font-size: 25px;
+}
+
+.componentHeading > a {
+    color:white !important;
+}
+
+.componentSubHeading{
+    color:gray;
+    font-size: 20px;
+}
+.button {
+    background-color: rgb(17, 131, 237);
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid white;
+    width: 7%;
+    height: 15px;
+    font-size: 20px;
+   
+}
+
+footer{
+   text-align: center;
+    height:300px;
+    width:100%;
+    background-color: black;
+    color: antiquewhite;
+    
+}
+.fotdiv{
+    
+   color: aliceblue;
+
+width:25%;
+float:left;
+border-right: 2px solid white;
+
+}
+ul{
+    list-style:none;
+}
